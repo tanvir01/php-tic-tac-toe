@@ -1,5 +1,6 @@
 # php-tic-tac-toe
 This is a simple tic-tac-toe game to played in cli.
+The game has 2 modes. It can be played against HUMAN or COMPUTER. 
 
 PRE-REQUISITES:
 1. composer
